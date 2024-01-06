@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Serbia protests: Anti-government demonstrators try to storm Belgrade City Hall",
+            "description": "The opposition demands a re-run of last week's elections which its say were marred by fraud.",
+            "url": "https://www.bbc.co.uk/news/business-67817072",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E97D/production/_132137795_7bf252c5582bb5df18ac5b0055223a2d787ec4d7.jpg",
+            "publishedAt": "2023-12-24T21:07:15.3381643Z",
+            "content": "Protesters in Serbia have tried to break into Belgrade City Hall in an escalation of demonstrations against last week's elections.\r\nThe opposition is demanding a re-run of the vote, which saw the rul… [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine celebrates first Christmas on 25 December",
+            "description": "The move to Western calendar is seen as a further shift away from Moscow's influence.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67816987",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+            "publishedAt": "2023-12-24T18:52:11.9802683Z",
+            "content": "Ukrainian Orthodox Christians are preparing to celebrate Christmas on 25 December for the first time this year. \r\nUkraine has traditionally used the Julian calendar, also used by Russia, where Christ… [+1715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Explosion at Indonesia nickel plant kills 13 staff",
+            "description": "Dozens of others were injured at the Chinese-funded facility, after a flammable liquid ignited.",
+            "url": "https://www.bbc.co.uk/news/world-asia-67815453",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15DDB/production/_132136598_gettyimages-1595724787-1.jpg",
+            "publishedAt": "2023-12-24T16:22:12.3098901Z",
+            "content": "An explosion at a nickel plant on Indonesia's Sulawesi island has killed at least 13 workers and injured dozens of others, some seriously.\r\nEight victims were Indonesian and five Chinese. The plant i… [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Ratcliffe agrees deal to buy 25% Man Utd stake",
+            "description": "British billionaire Sir Jim Ratcliffe agrees a deal to buy a 25% stake in Manchester United from the Glazer family.",
+            "url": "https://www.bbc.co.uk/sport/football/67815642",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-12-24T16:07:19.4048867Z",
+            "content": "British billionaire Sir Jim Ratcliffe has agreed to buy a 25% stake worth about £1.25bn in Manchester United.\r\nAs part of the deal, Ratcliffe's Ineos Group will take control of the club's football op… [+267 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cologne Cathedral: Extra checks at German landmark after attack warning",
+            "description": "German police are deployed near the cathedral, amid fears of attacks in several European countries.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67816617",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/262D/production/_132137790_gettyimages-1871538584.jpg",
+            "publishedAt": "2023-12-24T14:22:18.7239152Z",
+            "content": "German authorities have increased security at Cologne Cathedral following warnings of a possible attack plot. \r\nWorshippers attending the Christmas Eve service were told to arrive early and avoid bri… [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Bethlehem is empty of joy - no Santa, no celebration'",
+            "description": "The West Bank city of Bethlehem, usually bustling at this time of year, is subdued as war goes on in Gaza.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-67815370",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10985/production/_132137976_590243ec08d14153a47459de39b5b0e61b46aaae0_0_6720_44801000x667.jpg",
+            "publishedAt": "2023-12-24T14:22:16.9036652Z",
+            "content": "Media caption, Watch: Bethlehem nativity scene depicted with rubble and razor wire\r\nThe atmosphere in Bethlehem is heavy with absence.\r\nChristmas celebrations have been cancelled this year and the th… [+4925 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Slovakia arrest over threat to copy Prague attack",
+            "description": "The suspect said he wanted to repeat Thursday's shooting in neighbouring Czech Republic, police say.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67815454",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCF5/production/_132137384_gettyimages-1865835363.jpg",
+            "publishedAt": "2023-12-24T13:22:18.1452812Z",
+            "content": "Police in Slovakia say they have arrested a man who had threatened to carry out a massacre similar to Thursday's mass shooting in Prague.\r\nThey say a 64-year-old was held in the northern city of Zili… [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Watch: Joy as babies born to mum with rare double womb",
+            "description": "Kelsey Hatcher has given birth in Alabama twice in two days - after a 'one in a million' pregnancy.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67815276",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38E3/production/_132136541_p0h1ffty.jpg",
+            "publishedAt": "2023-12-24T09:07:15.6381549Z",
+            "content": "A US woman with a rare double uterus has given birth twice in two days - after a \"one in a million\" pregnancy.\r\nPeople in the delivery room could be heard cheering as Kelsey Hatcher welcomed her firs… [+233 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel vows to continue 'difficult' military operation in Gaza",
+            "description": "An Israeli army spokesman says fierce battles are raging at Hamas's new strongholds in the Gaza Strip.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-67814475",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/850F/production/_132136043_9fe32c7770280fb83056793463ac6bdb4828d639-1.jpg",
+            "publishedAt": "2023-12-24T06:37:15.1541817Z",
+            "content": "The Israeli military has vowed to continue its operation in Gaza, but admitted it is \"protracted\" and \"difficult\". \r\nA spokesman said over the weekend it was expanding its \"ground operations in the s… [+2304 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Guyana: UK to send warship to South America amid Venezuela tensions",
+            "description": "HMS Trent will visit South America as a show of support for the former British colony, the BBC learns.",
+            "url": "https://www.bbc.co.uk/news/uk-67806227",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F01/production/_132131523_gettyimages-1293885592.jpg",
+            "publishedAt": "2023-12-24T06:07:16.7948609Z",
+            "content": "The UK is preparing to send a warship to Guyana in a show of diplomatic and military support for the former British colony, the BBC has learned.\r\nIt comes after neighbouring Venezuela renewed its cla… [+4410 chars]"
+        }
+    ]
+}
